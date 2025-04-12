@@ -41,6 +41,8 @@ Aplikasi ini dibangun menggunakan fitur-fitur modern JavaScript (ES6+), antara l
 - ✅ **Event Listeners dengan callback ES6**  
   Contoh: `button.addEventListener('click', () => {...});`
 
+- ✅ **Fungsi Asinkron, Async Await**
+
 ## 🏁 Cara Menjalankan
 
 1. Clone repository ini
