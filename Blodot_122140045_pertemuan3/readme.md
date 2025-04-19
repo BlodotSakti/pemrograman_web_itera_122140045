@@ -1,4 +1,4 @@
-# 📚 My Book Manager
+# 📚 MANKUDOT
 
 Aplikasi manajemen koleksi buku pribadi bernama MANKUDOT (Manajeman Buku Blodot), dibuat menggunakan React JS. Aplikasi ini memungkinkan pengguna untuk menambahkan buku yang sudah dimiliki, sedang dibaca dan ingin dibeli serta dapat mencari buku yang telah disimpan sebelumnya di `localStorage`. Terdapat juga fitur untuk mengedit dan menghapus buku yang ada. Selain itu, ada halaman statistic yang dapat melihat jumlah keseluruhan buku yang telah kita masukkan untuk di simpan di `localStorage`.
 
@@ -87,6 +87,7 @@ Website ini dibangun menggunakan fitur-fitur React sebagai berikut:
 
 ## ✅ Laporan Testing
 Berikut ini hasil dari unit testing yang dilakukan:
+
 ![Screenshot Aplikasi](./src/assets/Images/ujiUnitTesting.png)
 
 
