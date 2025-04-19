@@ -19,7 +19,7 @@ MANKUDOT menyediakan fitur untuk:
 
 1. **Clone repository**  
    ```bash
-   git clone https://github.com/BlodotSakti pemrograman_web_itera_122140045.git
+   git clone https://github.com/BlodotSakti/pemrograman_web_itera_122140045.git
    cd BlodotSakti pemrograman_web_itera_122140045
 
 2. **Install dependencies**  
